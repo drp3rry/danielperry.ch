@@ -1,0 +1,6 @@
+.DS_Store
+themes/.DS_Store
+
+# Hugo generated files (usually safe to ignore)
+resources/_gen/
+public/
