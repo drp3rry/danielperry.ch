@@ -18,6 +18,6 @@ Currently mostly shooting B&W film I can develop and print myself. Previously us
 
 This site is a place to share photos and misc projects without having to rely on a third party platform.
 
-email daniel: daniel@danielperry.ch
+email daniel@danielperry.ch
 
 &copy; {{< year >}} daniel perry. all rights reserved
