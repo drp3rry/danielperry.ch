@@ -4,5 +4,6 @@
     ><url>
             <loc>http://localhost:1313/info/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/black%20and%20white/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/colour/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://localhost:1313/digital/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

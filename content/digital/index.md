@@ -1,12 +1,12 @@
 ---
 type: _default
 layout: single
-url: /colour/
+url: /
 menu:
   main:
-    weight: 1
-    identifier: colour
-    title: colour
+    weight: 2
+    identifier: printed work
+    title: printed work
 unifiedAlt: '© daniel perry'
 build:
   publishResources: false
