@@ -1,0 +1,28 @@
+/* Proper mobile image sizing fix */
+@media (max-width: 640px) {
+
+  /* Collection scrolling view */
+  .collection {
+    gap: 10vh;
+    padding-top: calc(var(--window-height) * .2);
+  }
+
+  .collection img {
+    width: 92vw !important;
+    height: 45vh !important;
+    top: calc(var(--window-height) * .2);
+  }
+
+  /* Initial stage view */
+  .stage img {
+    transform: scale(1) !important;
+    height: calc(var(--window-height) - var(--nav-height)) !important;
+  }
+
+  /* Full gallery view */
+  .gallery img {
+    max-height: calc(var(--window-height) - var(--nav-height)) !important;
+    max-width: 100% !important;
+  }
+
+}
