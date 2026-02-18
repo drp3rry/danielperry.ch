@@ -1,0 +1,8 @@
+baseURL = 'https://danielperry.ch/'
+languageCode = 'en-us'
+title = 'daniel perry'
+theme = "bridget"
+# don't touch this
+disableKinds = ["section", "taxonomy", "term", "home"]
+# robots.txt
+enableRobotsTXT = true
