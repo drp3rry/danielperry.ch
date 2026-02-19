@@ -1,7 +1,7 @@
 ---
 type: _default
 layout: single
-url: /black and white/
+url: /black&white/
 menu:
   main:
     weight: 3
