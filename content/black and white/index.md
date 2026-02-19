@@ -5,8 +5,8 @@ url: /black and white/
 menu:
   main:
     weight: 3
-    identifier: black and white
-    title: black and white
+    identifier: black&white
+    title: black&white
 unifiedAlt: '© daniel perry'
 build:
   publishResources: false
