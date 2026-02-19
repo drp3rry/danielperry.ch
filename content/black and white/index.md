@@ -1,11 +1,11 @@
 ---
 type: _default
 layout: single
-url: /black&white/
+url: /black and white/
 menu:
   main:
     weight: 3
-    identifier: black&white
+    identifier: black and white
     title: black&white
 unifiedAlt: '© daniel perry'
 build:
